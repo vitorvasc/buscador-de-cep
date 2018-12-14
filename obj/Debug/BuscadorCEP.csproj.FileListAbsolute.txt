@@ -1,0 +1,14 @@
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.csprojAssemblyReference.cache
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.buscadorCep.resources
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.Properties.Resources.resources
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.csproj.GenerateResource.cache
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.csproj.CoreCompileInputs.cache
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\bin\Debug\BuscadorCEP.exe.config
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\bin\Debug\BuscadorCEP.exe
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\bin\Debug\BuscadorCEP.pdb
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.csproj.CopyComplete
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.exe
+C:\Users\vvasc\source\repos\BuscadorCEP\BuscadorCEP\obj\Debug\BuscadorCEP.pdb
